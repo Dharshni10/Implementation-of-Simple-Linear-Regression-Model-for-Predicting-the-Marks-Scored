@@ -62,22 +62,39 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-*/
+/*
 ```
 
 ## Output:
+
+### DATA SET
 ![Data Set](Dataset-1.jpg)
+
+### HEAD VALUES
 ![Head Values](Headvalues-1.jpg)
+
+### TAIL VALUES
 ![Tail Values](Tailvalues-1.jpg)
+
+### X VALUES
 ![X Values](X-1.jpg)
+
+### Y VALUES
 ![Y Values](Y-1.jpg)
-![Prediction Values](Ypred-1.jpg)(Ytest-1.jpg)
+
+### PREDICTION VALUES
+![Prediction Values](Ypred-1.jpg)
+
+![prediction Values](Ytest-1.jpg)
+
+### MSE,MAE and RMSE
 ![MSE,MAE,RMSE](values-1.jpg)
+
+### TRAINING SET
 ![Training](Training-1.jpg)
+
+### TESTING TEST
 ![Testing](Testing-1.jpg)
-
-
-
 
 
 ## Result:
