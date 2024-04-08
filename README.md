@@ -16,7 +16,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 4. Plot the required graph both for test data and training data.
 
-5. Find the values of MSE , MAE and RMSE.
+5. Find the values of MSE,MAE and RMSE.
 
 ## Program:
 ```
